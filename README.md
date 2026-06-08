@@ -30,3 +30,6 @@ Sales Distribution
 Top 30% of customers contributed approximately 60% of total sales.
 Profit Distribution
 Top 30% of customers generated approximately 97% of total profit.
+
+## Reference Links
+Dataset Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
