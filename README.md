@@ -34,6 +34,14 @@ Top 30% of customers generated approximately 97% of total profit.
 ## Conclusion
 The analysis reveals that profitability is not always aligned with sales volume. While California generated strong revenue, New York delivered superior profitability. Customer analysis showed that a small percentage of customers contribute the majority of profits, highlighting the importance of customer retention and targeted marketing.
 
+## Recommendations
+Prioritize marketing efforts in highly profitable states and cities.
+Focus retention strategies on top-profit customers.
+Optimize pricing and discount strategies for loss-making products.
+Invest more resources in profitable product categories.
+Use customer segmentation to improve personalized marketing campaigns.
+Continuously monitor geographical and product-level profitability for strategic decision-making.
+
 Product analysis identified Office Supplies as the most profitable category, while certain product segments require optimization due to low profitability. Additionally, consistent growth in sales and profit over time indicates a healthy business trajectory.
 
 ## Reference Links
