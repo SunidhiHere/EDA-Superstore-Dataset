@@ -1,4 +1,5 @@
 # EDA-Superstore-Dataset
+<img width="1408" height="479" alt="Gemini_Generated_Image_aeeawaaeeawaaeea" src="https://github.com/user-attachments/assets/f33e0dd9-d497-4ff5-9ac2-8cc247d95262" />
 
 ## Introduction
 Marketing decisions should be driven by data rather than assumptions. This project analyzes the Superstore dataset to uncover valuable business insights related to geographical performance, customer behavior, product categories, and sales trends.
