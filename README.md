@@ -8,6 +8,8 @@ The primary objective is to identify high-value markets, profitable customer seg
 ## Project Pipeline
 Imported the Superstore sales dataset.
 Loaded transactional sales, customer, product, and geographical information into Python.
+## About Dataset
+The dataset used in this project is the Superstore Sales Dataset, which contains transactional records from a retail business operating across various regions of the United States. It provides detailed information about customer purchases, including order dates, shipping details, customer names, geographical locations, product categories, sales revenue, discounts, quantities sold, and profits generated. The dataset is widely used for business analytics and exploratory data analysis because it enables the examination of customer behavior, product performance, regional sales trends, and overall business profitability. By analyzing these attributes, organizations can identify high-performing products, profitable customer segments, and growth opportunities, ultimately supporting data-driven marketing and strategic decision-making.
 
 ## EDA
 Geographical Insights
