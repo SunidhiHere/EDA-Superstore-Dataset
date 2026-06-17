@@ -22,6 +22,14 @@ Performed time-series analysis by extracting year and month information from ord
 Developed visualizations using Matplotlib and Seaborn to uncover trends, compare performance metrics, and communicate key business insights effectively.
 Generated actionable marketing recommendations based on customer behavior, regional performance, and product profitability to support data-driven business decisions.
 
+## Time series Analysis
+A time-series analysis was performed by extracting temporal features from the order date and aggregating sales and profit data over time. This helped in understanding how the business performed across different years and identifying long-term growth patterns.
+The sales trend analysis revealed a steady increase in revenue over the observed period, indicating growing customer demand and business expansion. The upward trend suggests that the company was successful in attracting customers and increasing its market presence.
+Profit trends were also examined alongside sales to evaluate overall business performance. The results showed that profitability improved over time, demonstrating that the company was not only generating higher sales but also maintaining healthy profit margins.
+By comparing yearly sales and profit performance, it was observed that both metrics generally moved in the same direction, indicating a positive relationship between revenue growth and profitability.
+The analysis also helped identify fluctuations and seasonal variations in business performance, providing valuable insights for future marketing campaigns, inventory planning, and resource allocation.
+Overall, the time-series analysis highlighted a consistent growth trajectory for the business, supporting the conclusion that the company experienced sustainable improvements in both sales generation and profit creation over the analyzed period.
+
 ## Conclusion
 The analysis reveals that profitability is not always aligned with sales volume. While California generated strong revenue, New York delivered superior profitability. Customer analysis showed that a small percentage of customers contribute the majority of profits, highlighting the importance of customer retention and targeted marketing.
 
