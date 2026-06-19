@@ -40,6 +40,8 @@ Optimize pricing and discount strategies for loss-making products.
 Invest more resources in profitable product categories.
 Use customer segmentation to improve personalized marketing campaigns.
 Continuously monitor geographical and product-level profitability for strategic decision-making.
+## Sources
+
 
 Product analysis identified Office Supplies as the most profitable category, while certain product segments require optimization due to low profitability. Additionally, consistent growth in sales and profit over time indicates a healthy business trajectory.
 
